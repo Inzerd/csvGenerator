@@ -1,3 +1,5 @@
+# CSVGenerator
+
 CSVGenerator can manipulate txt file to export in csv format.
 Gived a txt file with many lines, tool can merge number of row in one row with custom separate char:
 Mandatory param: 
